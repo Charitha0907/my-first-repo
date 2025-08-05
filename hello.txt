@@ -1,1 +1,2 @@
 learning DevOps using github
+it is a part of DevOps hackthon
